@@ -3,14 +3,14 @@ A ready made Node JS back end code for easier deployment process.
 
 ## Install Instruction
 
-Requirements:
+*Requirements:
 1. Get Node JS from : https://nodejs.org/en/download/
 2. Create a new folder/directory.
-3. Open CMD.exe and CD to the new folder.
-3.1 npm install express.
-3.2 npm install body-parser.
+*3. Open CMD.exe and CD to the new folder.
+1. npm install express.
+2. npm install body-parser.
 
-Step by step:
+*Step by step:
 1. Download all file from this repo and store it in the newly created folder.
 2. Open CMD.exe and CD to the new folder.
 3. Run the command >> node basicServer.js
