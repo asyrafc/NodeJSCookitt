@@ -15,3 +15,15 @@ Step by step:
 4. Run the command >> node basicServer.js
 5. Access the Node JS webserver from browser through localhost or 127.0.0.1.
 6. Aaaand we are done.
+
+## How does it works?
+For Accessing Home Page
+>> input localhost in the browser url bar.
+
+Get Request
+>> input localhost/testget/<anything in here> in the browser url bar.
+
+Post Request
+>> this will have to be requested from the index.html form request(method="POST").
+
+Always be creative with the usage.
