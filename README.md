@@ -7,8 +7,8 @@ Requirements:
 1. Get Node JS from : https://nodejs.org/en/download/
 2. Create a new folder/directory.
 3. Open CMD.exe and CD to the new folder.
-  a. npm install express.
-  b. npm install body-parser.
+3.1 npm install express.
+3.2 npm install body-parser.
 
 Step by step:
 1. Download all file from this repo and store it in the newly created folder.
